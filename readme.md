@@ -39,16 +39,16 @@ This web app inspired by Japanese developer social network **qiita**.  It has fe
 ## Screenshot
 
 ### Landing page
-![alt text] <img src="https://github.com/Qhkm92/qiita-clone/blob/master/client/src/img/1.png" width="300px" height="200px">
+<img src="https://github.com/Qhkm92/qiita-clone/blob/master/client/src/img/1.png" width="300px" height="200px">
 
 ### Dashboard
-![alt text] <img src="https://github.com/Qhkm92/qiita-clone/blob/master/client/src/img/2.png" width="300px" height="200px">
+<img src="https://github.com/Qhkm92/qiita-clone/blob/master/client/src/img/2.png" width="300px" height="200px">
 
 ### Profile Details
-![alt text] <img src="https://github.com/Qhkm92/qiita-clone/blob/master/client/src/img/3.png" width="300px" height="200px">
+<img src="https://github.com/Qhkm92/qiita-clone/blob/master/client/src/img/3.png" width="300px" height="200px">
 
 ### Developers list
-![alt text] <img src="https://github.com/Qhkm92/qiita-clone/blob/master/client/src/img/4.png" width="300px" height="200px">
+<img src="https://github.com/Qhkm92/qiita-clone/blob/master/client/src/img/4.png" width="300px" height="200px">
 
 ## Hosted 
 * Heroku
